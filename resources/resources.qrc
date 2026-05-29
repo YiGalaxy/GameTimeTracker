@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <!-- 图标资源（可选，当前使用代码生成的图标） -->
+        <!-- <file>icons/app.png</file> -->
+    </qresource>
+</RCC>
