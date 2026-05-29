@@ -364,5 +364,5 @@ bool DataManager::setSetting(const QString& key, const QString& value)
 
 QString DataManager::apiBaseUrl() const
 {
-    return getSetting("api_base_url", "http://localhost:8080/api");
+    return getSetting("api_base_url", "http://47.109.182.255:8080/api");
 }
